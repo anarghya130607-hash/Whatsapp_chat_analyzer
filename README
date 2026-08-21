@@ -1,0 +1,16 @@
+# Name: Anarghya J
+
+# WhatsApp Chat Analyzer
+
+WhatsApp Chat Analyzer is a visual analytics project that transforms WhatsApp chat data into meaningful insights 
+such as popular words, response patterns,activity heatmaps, and personality archetypes, helping users understand their group communication patterns.
+
+#Features
+- Chat Parser
+- Group Overview
+- Word Frequency Analysis
+- Activity Heatmap
+- Response Time Analysis
+- Silent Streak Analysis
+- Personality Archetypes
+
